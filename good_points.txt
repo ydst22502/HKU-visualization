@@ -1,0 +1,75 @@
+good points:
+- Average latitude 正比于 Annual insolation (W.h/m2.day) 反比于 Fats (g/day)（xdat）
+- 肥胖和日照量关系大和脂肪摄入关系小 （xdat）
+- ppp和肥胖程度的关系
+- 欧洲国家喜欢喝酒 （tableau）
+- 各种食物的喜好程度
+- Au和蒙古喜欢吃内脏
+- 美国人喜欢吃鸡肉
+- fertility rate 和 ppp 反相关
+- HALE 和 Energy, Protein, Fats, Animal Products, Sugar 正相关
+- HALE 和 Alcohol, Fruit, wine 不太有关
+- HALE 和 Annual insolation 反相关
+- tuberculosis
+-? 饮食习惯和寿命的关系 
+- cholesterol 和 animal product 正相关
+- cholesterol 和 egg, seafood, offal 一般般相关
+-? 食物的特殊程度
+-? 特殊饮食习惯的国家
+-? 网状结构, 食物之间的成分含量向量的欧拉距离就是距离，图！
+-？有年份变化的
+-? 最好吃的食物，大众点评类似
+- 用k_means，食物做feature对国家分类(每个cluster的一些特点)
+-? 用k_means，国家做feature对食物分类
+
+专门找和一般印象不一样的，或者有趣的，以前从来没感觉的
+
+工具：
+tableau
+xdat
+google chart
+Rgraph(在example1.js里改数据)
+Gephi
+
+故事剧本：
+-->我们每天都吃东西，人是铁饭是钢（美食图）
+-->However, how much do you know about food you eat everyday? (wordle)
+
+-->Interesting facts about global food:
+-->欧洲国家喜欢喝酒 （tableau）
+-->Au和蒙古喜欢吃内脏（tableau）
+-->美国人喜欢吃鸡肉（tableau）
+-->肥胖和日照量关系大和脂肪摄入关系小（xdat）
+-->HALE 和 Energy, Protein, Fats, Animal Products, Sugar 正相关（xdat）
+-->HALE 和 Alcohol, Fruit, wine 不太有关（xdat）
+-->cholesterol 和 animal product 正相关（xdat）
+-->cholesterol 和 egg, seafood, offal 一般般相关（xdat）
+-->用k_means，食物做feature对国家分类(Rgraph, tableau, google chart 柱状图统计其中三个饮食区特点)
+
+-->Interesting facts about food
+-->nutrient food prymaid (google chart 饼状图)
+-->1 apple = 3 grapes , etc.
+-->三类食物中营养的相似程度(Gephi)
+-->用kmeans对食物进行分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
