@@ -41,16 +41,22 @@ for row in average:
 fout.close()
 
 summay = [[],[],[],[],[],[],[]]
-#fout = open('food_habit_summary.txt','w')
+fout = open('food_habit_summary.txt','w')
 for m, row in enumerate(average):
 	for n, item in enumerate(row):
-		if item == max(average[0][n],average[1][n],average[2][n],average[3][n],average[4][n],average[5][n],average[6][n]) and n!=0:
-			summay[m].append('Love '+str(val[0][m+1]))
-		elif item == min(average[0][n],average[1][n],average[2][n],average[3][n],average[4][n],average[5][n],average[6][n]) and n!=0:
-			summay[m].append('Hate '+str(val[0][m+1]))
-		else:
-			pass
-print summay
+		if n>=9 and n <=51:
+			if item == max(average[0][n],average[1][n],average[2][n],average[3][n],average[4][n],average[5][n],average[6][n]) and n!=0:
+				summay[m].append('Love '+str(val[0][n]))
+			elif item == min(average[0][n],average[1][n],average[2][n],average[3][n],average[4][n],average[5][n],average[6][n]) and n!=0:
+				summay[m].append('Hate '+str(val[0][n]))
+			else:
+				pass
+
+for n, row in enumerate(summay):
+	fout.write(str(n)+': ')
+	fout.write(str(row))
+	fout.write('\n\n')
+fout.close()
 
 
 

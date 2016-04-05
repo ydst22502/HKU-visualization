@@ -1,0 +1,14 @@
+0: ['Love Butter, Ghee (kcal/day)', 'Love Cheese (kcal/day)', 'Love Eggs (kcal/day)', 'Love Fats, Animals, Raw (kcal/day)', 'Love Honey (kcal/day)', 'Love Meat (kcal/day)', 'Love Milk - Excluding Butter (kcal/day)', 'Love Pigmeat (kcal/day)', 'Love Alcoholic Beverages (kcal/day)', 'Love Apples (kcal/day)', 'Hate Beans (kcal/day)', 'Hate Cereals - Excluding Beer (kcal/day)', 'Love Coffee (kcal/day)', 'Love Nuts (kcal/day)', 'Love Olive Oil (kcal/day)', 'Love Potatoes (kcal/day)', 'Love Sugar & Sweeteners (kcal/day)', 'Love Sugar, Raw Equivalent (kcal/day)', 'Love Vegetable Oils (kcal/day)', 'Love Wine (kcal/day)']
+
+1: ['Hate Butter, Ghee (kcal/day)', 'Hate Cheese (kcal/day)', 'Hate Eggs (kcal/day)', 'Hate Meat (kcal/day)', 'Hate Pigmeat (kcal/day)', 'Hate Poultry Meat (kcal/day)', 'Hate Apples (kcal/day)', 'Love Beans (kcal/day)', 'Hate Coffee (kcal/day)', 'Love Palm Oil (kcal/day)', 'Love Pulses (kcal/day)', 'Love Roots & Tuber Dry Equiv (kcal/day)', 'Love Starchy Roots (kcal/day)', 'Hate Sugar & Sweeteners (kcal/day)', 'Hate Sugar (Raw Equivalent) (kcal/day)', 'Hate Sugar, Raw Equivalent (kcal/day)', 'Hate Sugar, Refined Equiv (kcal/day)', 'Hate Vegetables (kcal/day)', 'Hate Wheat (kcal/day)']
+
+2: ['Hate Bovine Meat (kcal/day)', 'Hate Fats, Animals, Raw (kcal/day)', 'Love Freshwater Fish (kcal/day)', 'Hate Honey (kcal/day)', 'Hate Milk - Excluding Butter (kcal/day)', 'Hate Milk, Whole (kcal/day)', 'Hate Mutton & Goat Meat (kcal/day)', 'Hate Offals, Edible (kcal/day)', 'Love Coconut Oil (kcal/day)', 'Hate Fruits - Excluding Wine (kcal/day)', 'Hate Nuts (kcal/day)', 'Hate Olive Oil (kcal/day)', 'Hate Potatoes (kcal/day)', 'Love Rice (Milled Equivalent) (kcal/day)', 'Love Rice (Paddy Equivalent) (kcal/day)', 'Hate Vegetable Oils (kcal/day)', 'Hate Wine (kcal/day)']
+
+3: ['Love Vegetal Products + (kcal/day)', 'Hate Alcoholic Beverages (kcal/day)', 'Hate Bananas (kcal/day)', 'Love Cereals - Excluding Beer (kcal/day)', 'Love Vegetables (kcal/day)', 'Love Wheat (kcal/day)']
+
+4: ['Love Bovine Meat (kcal/day)', 'Hate Fish, Seafood (kcal/day)', 'Hate Freshwater Fish (kcal/day)', 'Love Milk, Whole (kcal/day)', 'Love Mutton & Goat Meat (kcal/day)', 'Love Offals, Edible (kcal/day)', 'Hate Pelagic Fish (kcal/day)', 'Hate Vegetal Products + (kcal/day)', 'Hate Coconut Oil (kcal/day)', 'Hate Palm Oil (kcal/day)', 'Hate Pulses (kcal/day)', 'Hate Rice (Milled Equivalent) (kcal/day)', 'Hate Rice (Paddy Equivalent) (kcal/day)', 'Hate Soyabean Oil (kcal/day)']
+
+5: ['Love Poultry Meat (kcal/day)', 'Hate Roots & Tuber Dry Equiv (kcal/day)', 'Love Soyabean Oil (kcal/day)', 'Hate Starchy Roots (kcal/day)', 'Love Sugar (Raw Equivalent) (kcal/day)', 'Love Sugar, Refined Equiv (kcal/day)']
+
+6: ['Love Fish, Seafood (kcal/day)', 'Love Pelagic Fish (kcal/day)', 'Love Bananas (kcal/day)', 'Love Fruits - Excluding Wine (kcal/day)']
+
