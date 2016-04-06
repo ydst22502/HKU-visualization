@@ -46,17 +46,7 @@ Gephi
 -->cholesterol 和 egg, seafood, offal 一般般相关（xdat）
 -->用k_means，食物做feature对国家分类(Rgraph, tableau地图,  google chart 饼状图国家,  tableau柱状图统计其中三个饮食区特点)
 影响因素，海陆位置，文化因素，气候气温, 喜好？不一定
-
-0欧美区特点：
-Love:
-
-2中华区特点：
-谷物cereal吃很多
-rice吃很多
-olive oil吃很少
-
-4阿根廷，蒙古：
-牛肉bovine吃很多
+见food_habit_summary.txt
 
 
 -->Interesting facts about food

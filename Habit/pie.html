@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load("current", {packages:["corechart"]});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Habit Category', 'Countries Number'],
+          ['Habit0', 30],
+          ['Habit1',  9],
+          ['Habit2', 10],
+          ['Habit3',  7],
+          ['Habit4',  9],
+          ['Habit5', 11],
+          ['Habit6', 10],
+        ]);
+
+        var options = {
+          title: 'Global Eating Habit Distribution (Total 86 Countries)',
+          is3D: true,
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('piechart_3d'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="piechart_3d" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
